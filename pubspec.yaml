@@ -65,6 +65,8 @@ flutter:
      - assets/emoji_two.png
      - assets/emoji_three.png
      - assets/emoji_four.png
+     - assets/office_illustration.png
+     - assets/stars.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -1,4 +1,4 @@
-import 'package:bwadesigntocodeday5/first_rating.dart';
+import 'package:bwadesigntocodeday5/second_rating.dart';
 import 'package:flutter/material.dart';
 
 
@@ -15,7 +15,7 @@ class SevenDays extends StatelessWidget {
     return const MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Seven Days Flutter Demo',
-        home: FirstRating(
+        home: SecondRating(
        
         )
         );
